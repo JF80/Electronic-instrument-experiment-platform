@@ -1,0 +1,1 @@
+window._CCSettings={platform:"win32",groupList:["default","New Group 3","New Group 4"],collisionMatrix:[[false],[false,false],[false,false,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/helloworld.fire",orientation:"",server:"",jsList:[],bundleVers:{internal:"733b3",main:"d527d"}};
